@@ -18,3 +18,8 @@
   ```zsh
   mv arduino-ide.desktop ~/.local/share/applications/
   ```
+- The add to user group
+  ```zsh
+  sudo usermod -a -G dialout $USER  
+  sudo chmod a+rw /dev/ttyACM0
+  ```
