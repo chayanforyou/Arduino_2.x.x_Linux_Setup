@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Arduino IDE
+Exec="/opt/arduino-ide/arduino-ide" %u
+Icon=/opt/arduino-ide/icon.png
+StartupWMClass=arduino-ide
+Comment=An IDE for Arduino development
+Categories=Development;IDE;
+Terminal=false
+StartupNotify=true
