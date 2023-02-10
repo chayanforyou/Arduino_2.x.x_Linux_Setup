@@ -1,1 +1,1 @@
-# Arduino2.x_Linux_Setup
+# Arduino 2.x Linux Setup
